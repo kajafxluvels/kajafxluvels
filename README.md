@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajafxluvels
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Web programming too lol + a little bit android java
+- 🌱 I’m currently learning Web programming too lol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "안녕하세요 똥식엄마 ^-^"
 
