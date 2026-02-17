@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Web programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "LOOK OUT FOR DESIRE : UNLEASH!!"
+- 📫 How to reach me "Evan Lee's Lifeline, Dattebane!"
 
 <!---
 kajafxluvels/kajafxluvels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
